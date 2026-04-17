@@ -4,8 +4,8 @@
 
 | Name | SRN |
 |------|-----|
-| J Naga Vamsi | PES1UG24CS201 |
-| K Pranay Krishna | PES1UG24CS242 |
+| Prithvish Adhikari | PES1UG24AM206 |
+| Rahul Prasanna | PES1UG24AM217 |
 
 ---
 
